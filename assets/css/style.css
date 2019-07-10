@@ -12,8 +12,12 @@ body{
   border: 1px solid #dddddd;
   padding: 10px;
   background-color: white;
-  height: 600px;
+  height: 800px;
   margin-left: 185px;
+}
+
+#portfolio-body {
+  height: 955px;
 }
 
 form {
