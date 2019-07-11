@@ -12,13 +12,10 @@ body{
   border: 1px solid #dddddd;
   padding: 10px;
   background-color: white;
-  height: 800px;
+  height: 700px;
   margin-left: 185px;
 }
 
-#portfolio-body {
-  height: 955px;
-}
 
 form {
   padding: 10px;
@@ -67,6 +64,10 @@ form {
     margin: 2px;
   }
 
+  #portfolio-body {
+    height: 955px;
+  }
+
 }
 
 @media screen and (max-width: 320px) {
@@ -83,6 +84,10 @@ form {
   .img-fluid {
     margin: 2px;
     margin-right: 10px;
+  }
+
+  #portfolio-body {
+    height: 955px;
   }
 
 }
