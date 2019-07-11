@@ -70,7 +70,7 @@ form {
 
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 375px) {
   .media {
     margin-left: auto;
     height: 850px; 
@@ -87,7 +87,7 @@ form {
   }
 
   #portfolio-body {
-    height: 955px;
+    height: 915px;
   }
 
 }
