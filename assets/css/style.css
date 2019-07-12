@@ -51,8 +51,7 @@ form {
 
 @media screen and (max-width: 550px) {
   .media {
-    margin-left: auto;
-    height: 850px; 
+    margin-left: auto; 
   }
 
   img {
@@ -65,15 +64,14 @@ form {
   }
 
   #portfolio-body {
-    height: 955px;
+    height: 975px;
   }
 
 }
 
 @media screen and (max-width: 375px) {
   .media {
-    margin-left: auto;
-    height: 850px; 
+    margin-left: auto; 
   }
 
   img {
@@ -87,7 +85,7 @@ form {
   }
 
   #portfolio-body {
-    height: 915px;
+    height: 975px;
   }
 
 }
